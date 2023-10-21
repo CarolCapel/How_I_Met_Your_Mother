@@ -1,4 +1,4 @@
-# How_I_Met_Your_Mother
+# How I Met Your Mother 💛
 
 Projeto que criei dentro do evento do DevEmDobro. 
 Esse projeto consiste em criar uma página interativa, com personagens de One Piece, utilizando HTML, CSS e JavaScript. 
