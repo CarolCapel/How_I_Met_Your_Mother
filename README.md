@@ -1,7 +1,5 @@
 # 💛 How I Met Your Mother 💛
 
-
-![image](https://github.com/CarolCapel/How_I_Met_Your_Mother/assets/108011375/7abf07c8-a80d-402f-995f-11897e0be5f1)
 Projeto que desenvolvi dentro do evento do Dev em Dobro.
 
 Esse projeto consiste em desenvolver uma página interativa, com personagens de One Piece, utilizando #HTML, #CSS e #JavaScript. 
